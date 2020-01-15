@@ -22,6 +22,7 @@ public class Main {
         }
         System.out.print("You entered :");
         System.out.println(num);
+        System.out.println();
     }
 
 }
